@@ -21,3 +21,5 @@ engine.setProperty('voice', voices[1].id)
 engine.say("Hello World!")
 engine.say(f"My current speaking rate is {rate}")
 engine.runAndWait()
+
+# used pyttsx3 as an external module
