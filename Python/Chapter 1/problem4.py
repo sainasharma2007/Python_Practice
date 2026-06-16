@@ -9,3 +9,5 @@ if os.path.exists(directory_path):
         print(item)
 else:
     print("Directory does not exist.")
+
+# used os as a built-in module
